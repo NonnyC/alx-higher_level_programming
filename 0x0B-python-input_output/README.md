@@ -1,0 +1,1 @@
+Python supports various types of input, such as strings, integers, floats, lists, and more. In addition, it also supports providing input through user interaction. For example, the input() function can be used to prompt the user for input
